@@ -15,6 +15,7 @@ h1,
 h2 {
     text-align: center;
 }
+
 img {
     display: block;
     height: 50px;
@@ -22,6 +23,7 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
 ul {
     padding-left: 40px;
     font-size: 20px;
@@ -32,8 +34,8 @@ p {
     font-size: 30px;
 }
 .card {
-    width: 80px;
+    width: 80%;
     margin: 40px auto;
     border: 5px solid gray;
-    box-shadow: 5px 10xp #888888;
+    box-shadow: 5px 10px #888888
 }
